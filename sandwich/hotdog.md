@@ -1,4 +1,4 @@
 pain
 saucisse
 ketchup
-![hotdog](sandwich/hotdog.jpg)
+![hotdog](./hotdog.jpg)
