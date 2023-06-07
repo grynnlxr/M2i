@@ -11,4 +11,4 @@
 - Chève
 
 
-![burger] (../../image.burger)
+![burger](./image.burger.avif)
