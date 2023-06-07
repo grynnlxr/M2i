@@ -5,4 +5,5 @@ Fromage
 Tomate
 Fromage
 Sauce
-![burger] (../image.webp)
+
+![burger](./burger.jpg)
